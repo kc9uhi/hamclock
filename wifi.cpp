@@ -5,7 +5,7 @@
 
 
 // host name and port of backend server
-const char *backend_host = "clearskyinstitute.com";
+const char *backend_host = "hcb.kc9uhi.net";
 int backend_port = 80;
 
 // IP where server thinks we came from
